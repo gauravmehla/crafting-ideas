@@ -1,6 +1,6 @@
-# A platform to share and grow your ideas
+<h1 align="center"> A platform to share and grow your ideas </h1>
 
-# Idea 💡
+<h1 align="center"> Idea 💡</h1>
 
 Ideas can change the world. Although a lot of people put too much value into them. Ideas without implementation are nothing. Projects like [Kickstarter](https://www.kickstarter.com/) do an amazing job at helping an idea grow up and become a thing.
 
@@ -12,11 +12,12 @@ There will also be a way to privately track and catalogue one own's ideas that y
 
 Here is one such idea. This idea is nothing though until someone actually builts and makes it a 'thing'. This platform should minimse the time that it takes from getting a raw idea out into the world and seeing it grow.
 
-# Implementation 🚀
+<h1 align="center"> Implementation 🚀</h1>
 
 I will probably try to use Meteor to get the first MVP our as soon as possible. Since this platform is essentially a social network for sharing and building on ideas together, it needs traction to actually be of any use. If there are no people, there is no value in the product. 
 
-# Features
+
+<h1 align="center"> Features </h1>
 
 - ability to create a profile (similar to twitter)
 - aside from profile picture and short bio of oneself, user will have both
