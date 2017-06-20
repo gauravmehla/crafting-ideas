@@ -1,5 +1,5 @@
 <div align="center">
-<h1>A platform to share and grow your ideas </h1>
+<h1>A platform to share and grow your ideas 🍀</h1>
 <a href="https://join.slack.com/crafting-ideas/shared_invite/MjAwMzQ3MDY1NjY5LTE0OTc5MTg3ODUtYmIwYTg4MTkwMA">
 		<img src="https://img.shields.io/badge/Slack-channel-green.svg">
 	</a>
