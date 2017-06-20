@@ -18,10 +18,13 @@ I want to create a working MVP as soon as possible. Since this platform is essen
 
 I will try to create a mock prototype with React and [create react app](https://github.com/facebookincubator/create-react-app) and then iterate on that adding backend and database as I go.
 
-I hope I am not alone in wanting to build this and other people will join me in this. I also wish for this platform to be fully open source.
+<h1 align="center"> Help 💚</h1>
 
+I hope I am not alone in wanting to build this and other people will join me in this. 
 
-<h1 align="center"> Features </h1>
+I have created a [Slack Channel](https://join.slack.com/crafting-ideas/shared_invite/MjAwMzQ3MDY1NjY5LTE0OTc5MTg3ODUtYmIwYTg4MTkwMA) that you can join if you wish to work together with me on this. 
+
+<h1 align="center"> Possible Features</h1>
 
 - ability to create a profile (similar to twitter)
 - aside from profile picture and short bio of oneself, user will have both
