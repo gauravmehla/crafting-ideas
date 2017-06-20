@@ -14,7 +14,11 @@ Here is one such idea. This idea is nothing though until someone actually builts
 
 <h1 align="center"> Implementation 🚀</h1>
 
-I will probably try to use Meteor to get the first MVP our as soon as possible. Since this platform is essentially a social network for sharing and building on ideas together, it needs traction to actually be of any use. If there are no people, there is no value in the product. 
+I want to create a working MVP as soon as possible. Since this platform is essentially a social network for sharing and building on ideas together, it needs traction to actually be of any use. If there are no people, there is no value in the product. 
+
+I will try to create a mock prototype with React and [create react app](https://github.com/facebookincubator/create-react-app) and then iterate on that adding backend and database as I go.
+
+I hope I am not alone in wanting to build this and other people will join me in this. I also wish for this platform to be fully open source.
 
 
 <h1 align="center"> Features </h1>
