@@ -22,11 +22,6 @@ I want to create a working MVP as soon as possible. Since this platform is essen
 
 I will try to create a mock prototype with React and [create react app](https://github.com/facebookincubator/create-react-app) and then iterate on that adding backend and database as I go.
 
-<h1 align="center"> Help 💚</h1>
-
-I hope I am not alone in wanting to build this and other people will join me in this. 
-
-I have created a [Slack Channel](https://join.slack.com/crafting-ideas/shared_invite/MjAwMzQ3MDY1NjY5LTE0OTc5MTg3ODUtYmIwYTg4MTkwMA) that you can join if you wish to work together with me on this. 
 
 <h1 align="center"> Possible Features</h1>
 
@@ -52,3 +47,10 @@ I have created a [Slack Channel](https://join.slack.com/crafting-ideas/shared_in
     - such as offering help
 - there will be powerful search functionality that would allow people to search
   for other people's ideas that they can give their hand in making together
+  
+  
+  <h1 align="center"> Help 💚</h1>
+
+I hope I am not alone in wanting to build this and other people will join me in this. 
+
+I have created a [Slack Channel](https://join.slack.com/crafting-ideas/shared_invite/MjAwMzQ3MDY1NjY5LTE0OTc5MTg3ODUtYmIwYTg4MTkwMA) that you can join if you wish to work together with me on this. 
